@@ -1,6 +1,6 @@
 <h1>Sri Priya Das </h1>
 
-<h2>👨‍💻 Data Science Projects:</h2>
+<h2> Data Science Projects:</h2>
 
 - <b>Machine Learning</b>
   - [AWS Deployment Using Flask]()
@@ -11,7 +11,6 @@
 - <b> Natural Language Processing </b>
   - [Twitter Data Classification](https://github.com/spdeee/Projects/blob/1eac786a535e74105d34b58555438d0caf8e7b3e/Tweet_classification_categories.ipynb)
   - [Matching Resume to Skills from Job Postings](https://github.com/spdeee/Projects/blob/1eac786a535e74105d34b58555438d0caf8e7b3e/Matching%20Resume%20To%20Skills%20From%20Job%20Postings.ipynb)
-    <b>
 - <b>Deep Learning</b>
   - [Gender Prediction Through Image Classification](https://github.com/spdeee/Projects/blob/1eac786a535e74105d34b58555438d0caf8e7b3e/Gender%20prediction%20through%20image%20classification.ipynb)
   - [TNT detection using Deep Learning]()
