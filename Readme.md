@@ -3,7 +3,6 @@
 <h2> Data Science Projects:</h2>
 
 - <b>Machine Learning</b>
-  - [AWS Deployment Using Flask]()
   - [Building a Recommender System](https://github.com/spdeee/Projects/blob/1eac786a535e74105d34b58555438d0caf8e7b3e/Building%20Recommendation%20System.ipynb)
   - [NYC Home Price Prediction](https://github.com/spdeee/Projects/blob/1eac786a535e74105d34b58555438d0caf8e7b3e/NYC%20House%20Price%20Prediction.ipynb)
   - [Ad A/B Testing](https://github.com/spdeee/Projects/blob/87ae0f3c1e6c090e6b4f47f935d206f8682e44c1/Ad%20AB%20Testing.ipynb)
@@ -18,3 +17,4 @@
 <h2> Connect with me:</h2>
 <a href = "mailto: sriprdas@gmail.com">Send Email</a>
 
+ <!-- - [AWS Deployment Using Flask]() -->
