@@ -1,4 +1,4 @@
-<h1>Sri Priya Das </h1>
+<h1>Sri Priya Das, Ph.D. </h1>
 
 <h2> Data Science Projects:</h2>
 
