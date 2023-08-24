@@ -12,7 +12,7 @@
   - [Matching Resume to Skills from Job Postings](https://github.com/spdeee/Projects/blob/1eac786a535e74105d34b58555438d0caf8e7b3e/Matching%20Resume%20To%20Skills%20From%20Job%20Postings.ipynb)
 - <b>Deep Learning</b>
   - [Gender Prediction Through Image Classification](https://github.com/spdeee/Projects/blob/1eac786a535e74105d34b58555438d0caf8e7b3e/Gender%20prediction%20through%20image%20classification.ipynb)
-  - [TNT detection using Deep Learning]()
+  <!-- - [TNT detection using Deep Learning]() -->
 
 <h2> Connect with me:</h2>
 <a href = "mailto: sriprdas@gmail.com">Send Email</a>
